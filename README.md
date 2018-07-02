@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Loconomics Australia (almost) co-op
 
-You can use the [editor on GitHub](https://github.com/loconomics-au/coop-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+“Loconomics Cooperative's mission is to use technology, shared ownership, and community to strengthen local economies.We provide tools, marketing, and community to our owners, empowering them to thrive in their work as local service professionals. We provide their clients an app where they can discover and directly schedule local service professionals safely and easily, without middle-men.” - Loconomics.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is this coop?
 
-### Markdown
+This is a producer coop for local professional to find and manage clients. Cooperatives exist and are run for their members, that’s you, so all the value is kept in the community and not extracted by the shareholders or investors.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What jobs does it include?
 
-```markdown
-Syntax highlighted code block
+Any services that you can imagine. Some common examples are: Car mechanic; Cleaning professionals; Handy people; Massage therapists; Photographers; Psychotherapists; Personal trainers; Dog sitters; Chefs; Tutors.
 
-# Header 1
-## Header 2
-### Header 3
+### What are we doing?
 
-- Bulleted
-- List
+We are starting small. This is a tried and tested idea in the USA, loconomic.com is an active site based in California. We are trialling it in Australia, initially in Melbourne, then who knows!
+We are currently looking for members in and around the Northern suburbs, due to our limited budget we are focusing our marketing in this area.
+We don't have a website just yet. The US version is open source and work is underway to convert it for the Australian region.
 
-1. Numbered
-2. List
+### How can I help?
 
-**Bold** and _Italic_ and `Code` text
+1. Founders. We are looking for people to start the coop and become the founders. We need at least 5 people from the Northern Melbourne suburbs who are willing to be involved to found this innovative idea. You will be involved in the creation of the coop, attend workshops and ultimately decide on the legal framework of the coop itself.
 
-[Link](url) and ![Image](src)
-```
+2. Service professionals. If you identify with any of the services above, or anything else, we will need your help to be the first service providers on the platform when we go live.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+3. Business advice. This is a small operation and any advice is welcome.
 
-### Jekyll Themes
+4. Marketing. It’s a big world out there. People will want to know about Loconomics Australia when we launch.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/loconomics-au/coop-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+5. Spread the word. Tell your friends, tell your dog. All are welcome to join and get involved.
