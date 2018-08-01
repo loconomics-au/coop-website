@@ -52,3 +52,8 @@ Cooperatives serve their members most effectively and strengthen the cooperative
  
 #### Principle #7: Concern for Community
 While focusing on member needs, cooperatives work for the sustainable development of communities through policies and programs accepted by the members.
+
+### What is a Platform Co-op?
+Platform cooperativism is a growing international movement that builds a fairer future of work. It’s about social justice and the bottom line. Rooted in democratic ownership,co-op members, technologists, unionists, and freelancers create a concrete near-future alternative to the extractive sharing economy.
+
+Making good on the early promise of the Web to decentralize the power of apps, protocols, and websites, platform co-ops allow households with low and volatile income to benefit from the shift of labor markets to the Internet. Steering clear of the belief in one-click fixes of social problems, the model is poised to vitalize people-centered innovation by joining the rich heritage and values of co-ops with emerging Internet technologies. [Platform Cooperativism Consortium](https://platform.coop/about)
