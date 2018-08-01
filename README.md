@@ -27,3 +27,28 @@ We don't have a website just yet. The US version is open source and work is unde
 4. Marketing. It’s a big world out there. People will want to know about Loconomics Australia when we launch.
 
 5. Spread the word. Tell your friends, tell your dog. All are welcome to join and get involved.
+
+### The Seven Principles of Cooperatives
+
+Cooperatives around the world generally operate according to the same core principles and values, adopted by the International Cooperative Alliance in 1995. The International Cooperative Alliance is a global membership association of co-ops and co-op support organizations. Cooperatives trace the roots of these principles to the first modern cooperative founded in Rochdale, England in 1844.
+
+#### Principle #1: Voluntary and Open Membership
+Cooperatives are voluntary organizations, open to all people able to use its services and willing to accept the responsibilities of membership, without gender, social, racial, political or religious discrimination.
+ 
+#### Principle #2: Democratic Member Control 
+Cooperatives are democratic organizations controlled by their members—those who buy the goods or use the services of the cooperative—who actively participate in setting policies and making decisions. 
+
+#### Principle #3: Member's Economic Participation 
+Members contribute equally to, and democratically control, the capital of the cooperative. This benefits members in proportion to the business they conduct with the cooperative rather than on the capital invested. 
+ 
+#### Principle #4: Autonomy and Independence
+Cooperatives are autonomous, self-help organizations controlled by their members. If the co-op enters into agreements with other organizations or raises capital from external sources, it is done so based on terms that ensure democratic control by the members and maintains the cooperative’s autonomy.  
+ 
+#### Principle #5: Education, Training, and Information 
+Cooperatives provide education and training for members, elected representatives, managers and employees so they can contribute effectively to the development of their cooperative. Members also inform the general public about the nature and benefits of cooperatives. 
+ 
+#### Principle #6: Cooperation Among Cooperatives 
+Cooperatives serve their members most effectively and strengthen the cooperative movement by working together through local, national, regional and international structures.
+ 
+#### Principle #7: Concern for Community
+While focusing on member needs, cooperatives work for the sustainable development of communities through policies and programs accepted by the members.
