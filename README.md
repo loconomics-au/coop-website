@@ -4,7 +4,7 @@
 
 ### What is this coop?
 
-This is a producer coop for local professional to find and manage clients. Cooperatives exist and are run for their members, that’s you, so all the value is kept in the community and not extracted by the shareholders or investors.
+This is a producer coop for local professionals to find and manage clients. Cooperatives exist and are run for their members, that’s you, so all the value is kept in the community and not extracted by the shareholders or investors.
 
 ### What jobs does it include?
 
