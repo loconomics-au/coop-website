@@ -2,6 +2,13 @@
 ## Loconomics Australia
 Cooperatively owned, web-based platform promoting NorthMetro region service providers
 
+Vote for us here: [Pick My Project](https://pickmyproject.vic.gov.au/rounds/pick-my-project/ideas/loconomics-australia-cooperative)
+
+Follow us on Facebook: [Loconomics Australia](https://www.facebook.com/loconomicsau/)
+
+Tweet us on Twitter: [@loconomicsau](https://twitter.com/loconomicsau/)
+
+
 
 ### Loconomics’ mission is to use technology, shared ownership, and community to grow local economies.
 We provide NorthMetro service professionals (owners) with the tools, marketplace, and community that empower them to thrive in their work, whilst protecting their rights as workers.
