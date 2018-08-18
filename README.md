@@ -2,6 +2,14 @@
 
 “Loconomics Cooperative's mission is to use technology, shared ownership, and community to strengthen local economies.We provide tools, marketing, and community to our owners, empowering them to thrive in their work as local service professionals. We provide their clients an app where they can discover and directly schedule local service professionals safely and easily, without middle-men.” - Loconomics.com
 
+### Get Social 
+
+Vote for us here: [Pick My Project](https://pickmyproject.vic.gov.au/rounds/pick-my-project/ideas/loconomics-australia-cooperative)
+
+Follow us on Facebook: [Loconomics Australia](https://www.facebook.com/loconomicsau/)
+
+Tweet us on Twitter: [@loconomicsau](https://twitter.com/loconomicsau/)
+
 ### What is this coop?
 
 This is a producer coop for local professionals to find and manage clients. Cooperatives exist and are run for their members, that’s you, so all the value is kept in the community and not extracted by the shareholders or investors.
