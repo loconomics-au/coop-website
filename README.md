@@ -4,7 +4,7 @@
 
 ### Get Social 
 
-Vote for us here: [Pick My Project](https://pickmyproject.vic.gov.au/rounds/pick-my-project/ideas/loconomics-australia-cooperative)
+We are an active member of [Incubator Coop](https://www.incubator.coop/loconomics-australia/)
 
 Follow us on Facebook: [Loconomics Australia](https://www.facebook.com/loconomicsau/)
 
@@ -35,6 +35,8 @@ We don't have a website just yet. The US version is open source and work is unde
 4. Marketing. It’s a big world out there. People will want to know about Loconomics Australia when we launch.
 
 5. Spread the word. Tell your friends, tell your dog. All are welcome to join and get involved.
+
+6. Join us in the Incubator program with [Incubator Coop](https://www.incubator.coop/loconomics-australia/)
 
 ### The Seven Principles of Cooperatives
 
