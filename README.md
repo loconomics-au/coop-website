@@ -2,6 +2,12 @@
 
 “Loconomics Cooperative's mission is to use technology, shared ownership, and community to strengthen local economies.We provide tools, marketing, and community to our owners, empowering them to thrive in their work as local service professionals. We provide their clients an app where they can discover and directly schedule local service professionals safely and easily, without middle-men.” - Loconomics.com
 
+### Get Involved
+
+[Founders](/founder) - [Mentors](/mentor) - [Members](/member)
+
+
+
 ### Get Social 
 
 We are an active member of [Incubator Coop](https://www.incubator.coop/loconomics-australia/)
