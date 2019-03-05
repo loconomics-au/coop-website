@@ -1,7 +1,7 @@
 
 ## Members
 
-We are for our members, service providers with any of the following skills: Car mechanic; Cleaning professionals; Handy people; Massage therapists; Photographers; Psychotherapists; Personal trainers; Dog sitters; Chefs; Tutors, and more...
+We are for our members; service providers with any of the following skills: Car mechanic; Cleaning professionals; Handy people; Massage therapists; Photographers; Psychotherapists; Personal trainers; Dog sitters; Chefs; Tutors, and more...
 
 If you identify with any of the services above, or anything else, we will need your help to be the first service providers on the platform when we go live.
 
