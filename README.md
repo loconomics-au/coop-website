@@ -4,7 +4,7 @@
 
 ### Get Involved
 
-[Founders](/founder) - [Mentors](/mentor) - [Members](/member)
+[As a founder](/founder) - [As a mentors](/mentor) - [As a member](/member) - [As a volunteer](/volunteer)
 
 
 
