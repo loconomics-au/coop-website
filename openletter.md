@@ -1,5 +1,5 @@
 
-## Call to suspend the current tier pricing system during Stage 4 Restrictions in Melbourne
+## Call to Airtasker to suspend the tier pricing system during Stage 4 restrictions in Melbourne
 
 Victoria is currently experiencing a disaster due to COVID 19. The Victorian Government has shut down almost all economic activity in Greater Melbourne to control the spread of the Coronavirus. Many workers are no longer able to work at this time. This includes gig economy workers who are already some of the most precarious workers in our community. 
 
