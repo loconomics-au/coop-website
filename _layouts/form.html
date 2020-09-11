@@ -33,6 +33,25 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ content }}
+        
+        <form action="https://docs.google.com/forms/d/e/1FAIpQLScEaCI5VIUMBbJkXz6xKq4EIf0S4LegFXihVdaJndPCoEy-MA/formResponse" method="post">
+          <label>Email Address*</label>
+          <input type="email" placeholder="Email address*" name="emailAddress" required>
+          
+          <label>Name*</label>
+          <input type="text" placeholder="Name*" name="entry.2005620554" required>
+
+          <label>Address</label>
+          <input type="text" placeholder="Address" name="entry.1065046570">
+          
+          <label>Phone</label>
+          <input type="text" placeholder="Phone" name="entry.1166974658">
+
+          <label>Message*</label>
+          <textarea rows="5" placeholder="Comment" name="entry.839337160"></textarea>
+
+          <button type="submit">Send</button>
+        </form>
       </section>
     </div>
 
