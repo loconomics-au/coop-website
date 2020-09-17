@@ -16,9 +16,8 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <h1 id="project_title">{{ page.title | default: site.github.repository_name }}</h1>
+          <h2 id="project_tagline">{{ page.description | site.description }}</h2>
 
           {% if site.show_downloads %}
             <section id="downloads">
@@ -37,27 +36,15 @@
         <form action="https://docs.google.com/forms/d/e/1FAIpQLScEaCI5VIUMBbJkXz6xKq4EIf0S4LegFXihVdaJndPCoEy-MA/formResponse" method="post">
           
           <div>
-            <label>Email Address*</label>
-          </div>
-          
-          <div>
-            <input type="email" placeholder="Email address*" name="emailAddress" required>
-          </div>
-          
-          <div>
-            <label>Name*</label>
-          </div>
-          
-          <div>
-            <input type="text" placeholder="Name*" name="entry.2005620554" required>            
+            All information supplied on this form will be kept confidential within the Curbside Carnies project, and used for the purposes of planning and feedback (with permission).
           </div>
 
           <div>
-            <label>Address</label>
+            <label>Name</label>
           </div>
           
           <div>
-            <input type="text" placeholder="Address" name="entry.1065046570">            
+            <input type="text" placeholder="Name" name="entry.2005620554" required>            
           </div>
           
           <div>
@@ -69,11 +56,49 @@
           </div>
 
           <div>
-            <label>Message*</label>
+            <label>Email Address</label>
           </div>
           
           <div>
-            <textarea rows="5" placeholder="Comment" name="entry.839337160"></textarea>            
+            <input type="email" placeholder="Email address" name="emailAddress" required>
+          </div>
+
+          <div>
+            <label>Household details (ages of children/adults only)</label>
+          </div>
+          
+          <div>
+            <textarea rows="5" cols="40" placeholder="Household details" name="entry."></textarea>            
+          </div>
+
+          <div>
+            <label>Favourite circus act</label>
+          </div>
+          
+          <div>
+            <textarea rows="5" cols="40" placeholder="Favourite circus act" name="entry."></textarea>            
+          </div>
+
+          <div>
+            <label>Why do you want the Curbside Carnies on your street?</label>
+          </div>
+          
+          <div>
+            <textarea rows="5" cols="40" placeholder="Why do you want the Curbside Carnies on your street?" name="entry."></textarea>            
+          </div>
+
+          <div>
+            <label>Can Curbside Carnies contact you for post-show feedback?</label>
+          </div>
+          
+          <div>
+            <input type="radio" id="yes" name="entry." value="yes">
+            <label for="yes">Yes</label>
+          </div>
+
+          <div>
+            <input type="radio" id="no" name="entry." value="no">
+            <label for="no">No</label>
           </div>
 
           <button type="submit">Send</button>
