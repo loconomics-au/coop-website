@@ -1,9 +1,14 @@
 ---
 layout: form
 title: Curbside Carnies
-description: Welcome to a brand new contactless circus experience, Curbside Carnies! Devised by Reservoir local, Sophie deLightful, during lockdown, this nifty new project will feature a handpicked selection of local circus performers who are absolutely itching to get back onto a real stage and perform to live audiences. 
+description:  
 
 ---
+
+## Curbside Carnies
+
+Welcome to a brand new contactless circus experience, Curbside Carnies! Devised by Reservoir local, Sophie deLightful, during lockdown, this nifty new project will feature a handpicked selection of local circus performers who are absolutely itching to get back onto a real stage and perform to live audiences. 
+
 
 The Curbside Carnies project features a custom-built roving stage that will be pulled around the suburbs of Melbourne, stopping at pre-determined locations to perform circus shows throughout the day. Each show will feature a variety of circus skills, from hula hooping, juggling and singing, to clowning, unicycle or fire performance! Suitable for kids of all ages :) 
 
