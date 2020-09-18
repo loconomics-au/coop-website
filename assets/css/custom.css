@@ -1,0 +1,8 @@
+header.inner {
+    height:347px;
+    background-image: url('/ccassets/curbside_carnies_banner.jpg');
+    background-size: 660px 347px ;
+    background-repeat: no-repeat;
+}
+
+#header_wrap { background: #fff; background: -moz-linear-gradient(top, #fff, #fff); background: -webkit-linear-gradient(top, #fff, #fff); background: -ms-linear-gradient(top, #fff, #fff); background: -o-linear-gradient(top, #fff, #fff); background: linear-gradient(to top, #fff, #fff); }
