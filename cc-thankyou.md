@@ -5,4 +5,4 @@ description: Welcome to a brand new contactless circus experience, Curbside Carn
 
 ---
 
-Thank you for your submission! The Curbside Carnies will review your information and try their best to include you in their final schedule. Please keep an eye on their [Facebook page](https://www.facebook.com/curbsidecarnies) for updates on each outing. We look forward to seeing you from a distance)!
+Thank you for your submission! The Curbside Carnies will review your information and try their best to include you in their final schedule. Please keep an eye on their [Facebook page](https://www.facebook.com/Curbside-Carnies-100416458490460) for updates on each outing. We look forward to seeing you from a distance)!
