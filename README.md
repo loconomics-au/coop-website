@@ -1,4 +1,4 @@
-## Welcome to Loconomics Australia (almost) co-op
+## Welcome to Loconomics Australia Inc.
 
 “Loconomics Cooperative's mission is to use technology, shared ownership, and community to strengthen local economies.We provide tools, marketing, and community to our owners, empowering them to thrive in their work as local service professionals. We provide their clients an app where they can discover and directly schedule local service professionals safely and easily, without middle-men.” - Loconomics.com
 
