@@ -6,29 +6,20 @@
 
 [As a founder](/founder) - [As a mentor](/mentor) - [As a member](/member) - [As a volunteer](/volunteer)
 
-
-
 ### Get Social 
-
-We are an active member of [Incubator Coop](https://www.incubator.coop/loconomics-australia/)
 
 Follow us on Facebook: [Loconomics Australia](https://www.facebook.com/loconomicsau/)
 
 Tweet us on Twitter: [@loconomicsau](https://twitter.com/loconomicsau/)
 
-### What is this coop?
+### What do we do?
 
-This is a producer coop for local professionals to find and manage clients. Cooperatives exist and are run for their members, that’s you, so all the value is kept in the community and not extracted by the shareholders or investors.
-
-### What jobs does it include?
-
-Any services that you can imagine. Some common examples are: Car mechanic; Cleaning professionals; Handy people; Massage therapists; Photographers; Psychotherapists; Personal trainers; Dog sitters; Chefs; Tutors.
+We support gig workers in the Darebin community through our Not For Profit activities. 
 
 ### What are we doing?
 
 We are starting small. This is a tried and tested idea in the USA, loconomic.com is an active site based in California. We are trialling it in Australia, initially in Melbourne, then who knows!
-We are currently looking for members in and around the Northern suburbs, due to our limited budget we are focusing our marketing in this area.
-We don't have a website just yet. The US version is open source and work is underway to convert it for the Australian region.
+We are currently looking for gig workers in and around the Northern suburbs, 
 
 ### How can I help?
 
@@ -36,13 +27,13 @@ We don't have a website just yet. The US version is open source and work is unde
 
 2. Service professionals. If you identify with any of the services above, or anything else, we will need your help to be the first service providers on the platform when we go live.
 
-3. Business advice. This is a small operation and any advice is welcome.
+3. NFP advice. This is a small operation and any advice is welcome.
 
 4. Marketing. It’s a big world out there. People will want to know about Loconomics Australia when we launch.
 
 5. Spread the word. Tell your friends, tell your dog. All are welcome to join and get involved.
 
-6. Join us in the Incubator program with [Incubator Coop](https://www.incubator.coop/loconomics-australia/)
+6. Join us on our Facebook group [Loconomics Australia](https://www.facebook.com/loconomicsau/)
 
 ### The Seven Principles of Cooperatives
 
