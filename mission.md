@@ -1,5 +1,7 @@
 ## Our Misson
 
+#### To enable gig economy workers to connect to their communities, make decisions together and for the community to thrive
+
 Darebin residents are among those who have found themselves unemployed and without
 access to Government benefits. Many have no option but to look to insecure work on
 commercial gig economy platforms where they under-price their work to secure the jobs,
