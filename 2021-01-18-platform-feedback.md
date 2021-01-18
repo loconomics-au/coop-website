@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Gig Worker Platform Feedback"
+author: Emma Pascoe
+---
+
 ## The Good, the Bad and the Ugly - Melbourne Lockdown , June 2020
 
 In June 2020, amidst lockdowns in Melbourne, was the perfect time for Loconomics to gain insight into what gig workers in Melbourne need from their online platforms that provide the bread and butter for their businesses. The feedback received overwhelmingly supports Loconomics mission to build an alternative platform that benefits gig workers who provide essential services to their local community. 
