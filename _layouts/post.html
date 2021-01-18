@@ -2,6 +2,6 @@
 layout: default
 ---
 
-<p>{{ page.date }} - Written by {{ page.author }}</p>
+<p>{{ page.date | date: "%-d %B %Y" }} - Written by {{ page.author }}</p>
 
 {{ content }}
