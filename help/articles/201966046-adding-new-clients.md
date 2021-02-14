@@ -1,7 +1,7 @@
 ---
 layout: article
 id: 201966046
-title: how do i import and sync my existing calendar
+title: adding new clients
 category_id: 1234
 category: cat A
 section_id: 1
