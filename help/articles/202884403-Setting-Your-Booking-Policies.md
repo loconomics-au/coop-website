@@ -1,6 +1,6 @@
 ---
 layout: article
-id: 11
+id: 202884403
 title: Setting Your Booking Policies
 category_id: 1234
 category: cat A
