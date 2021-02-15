@@ -1,9 +1,9 @@
 ---
 layout: article
 id: 200431835
-title: resources for service professionals
+title: Resources for service professionals
 category_id: 200431835
-category: CAT resources for service professionals
+category: CAT Resources for service professionals
 section_id: 3
 section: SEC A
 ---
