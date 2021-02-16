@@ -5,4 +5,4 @@ description:
 
 ---
 
-## Join our news letter to get the latest updates from Loconomics Australia
+## Join our newsletter to get the latest updates from Loconomics Australia
