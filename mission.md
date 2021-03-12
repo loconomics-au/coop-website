@@ -22,6 +22,6 @@ Any profits will be kept in the community as Loconomics is a Not For Profit orga
 
 Through our connections with Neighbourhood Houses, we listen to the aspirations and
 views of the people of Darebin, especially those whose voices might be less often
-heard, and enabling people to make decisions on how the Lcoonomics platform and the
+heard, and enabling people to make decisions on how the Loconomics platform and the
 gig economy works for them. Loconomics will connect with the priority groups through
 Facebook and community networks.
