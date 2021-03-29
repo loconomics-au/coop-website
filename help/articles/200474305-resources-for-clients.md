@@ -2,6 +2,7 @@
 layout: article
 id: 200474305
 title: Resources for clients
+sitemap: false
 category_id: 200474305
 category: CAT resources for clients
 section_id: 10
