@@ -2,6 +2,7 @@
 layout: form
 title: Curbside Carnies
 description:  
+sitemap: false
 
 ---
 
