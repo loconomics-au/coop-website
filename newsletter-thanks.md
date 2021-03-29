@@ -2,6 +2,7 @@
 layout: default
 title: Newsletter confirmation
 description: Welcome to Loconomics' Newsletter
+sitemap: false
 
 ---
 
