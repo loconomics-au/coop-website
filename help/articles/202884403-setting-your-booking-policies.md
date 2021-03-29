@@ -2,6 +2,7 @@
 layout: article
 id: 202884403
 title: Setting your booking policies
+sitemap: false
 category_id: 1234
 category: cat A
 section_id: 202884403
