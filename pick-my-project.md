@@ -1,3 +1,10 @@
+---
+layout: default
+title: Pick my Project
+description: Loconomics Australia
+sitemap: false
+
+---
 
 ## Loconomics Australia
 Cooperatively owned, web-based platform promoting NorthMetro region service providers
