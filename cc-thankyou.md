@@ -2,6 +2,7 @@
 layout: default
 title: Curbside Carnies
 description: Welcome to a brand new contactless circus experience, Curbside Carnies! Devised by Reservoir local, Sophie deLightful, during lockdown, this nifty new project will feature a handpicked selection of local circus performers who are absolutely itching to get back onto a real stage and perform to live audiences. 
+sitemap: false
 
 ---
 
