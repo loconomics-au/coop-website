@@ -5,7 +5,7 @@ author: Hamideh Iraj
 ---
 
 This week interview is with Professor Juliet Schor, the author of the book "How the Sharing Economy Got Hijacked and How to Win It Back" 
-[https://www.ucpress.edu/book/9780520385672/after-the-gig]. 
+<https://www.ucpress.edu/book/9780520385672/after-the-gig>. 
 She talked about digital transaction platforms where strangers are sharing their spare resources in an informal peer-to-peer market using search and matching algorithms.
 In these platforms, service providers are employed as contractors as opposed to employees. 
 The platforms reduced the cost of search and the risk of transacting with unknown others in order to unleash the potential of sharing and create economic impact and wonderful social benefits. 
@@ -35,6 +35,6 @@ We believe that it is possible to use platforms and a fair business model that w
 The new business model borrows ideas from existing platforms in matching supply and demand while considering service providers' rights, dignity, and well-being.
 
 The interview is available here:
-https://www.youtube.com/watch?v=ZYns-5x5ubQ 
+<https://www.youtube.com/watch?v=ZYns-5x5ubQ>
  
 
