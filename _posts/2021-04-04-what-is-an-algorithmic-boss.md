@@ -36,4 +36,4 @@ In the coop business model, all the stakeholders have a say in how the platform 
 
 The talk is available here:
 
-https://www.youtube.com/watch?v=B639VJ9rq9E&t=1641s
+<https://www.youtube.com/watch?v=B639VJ9rq9E&t=1641s>
