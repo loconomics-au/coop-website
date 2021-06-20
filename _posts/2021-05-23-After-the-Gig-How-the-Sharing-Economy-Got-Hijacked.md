@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "After the Gig, How the Sharing Economy Got Hijacked"
+author: Hamideh Iraj
+---
+
 This week interview is with Professor Juliet Schor, the author of the book "How the Sharing Economy Got Hijacked and How to Win It Back" 
 [https://www.ucpress.edu/book/9780520385672/after-the-gig]. 
 She talked about digital transaction platforms where strangers are sharing their spare resources in an informal peer-to-peer market using search and matching algorithms.
