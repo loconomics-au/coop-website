@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "What is an algorithmic boss?"
+author: Hamideh Iraj
+---
+
 Alex Rosenblat is a researcher at the Data and Society Institute and the author of "Uberland: How Algorithms are Rewriting the Rules of Work". 
 In her 2019 talk, she discussed Uber practices and how Uber use of technology showcases the bigger trends in the gig economy. 
 Uber is a symbol for the gig economy, so investigating Uber practices will give us an idea of the disruptive change that happened in the last decades. 
