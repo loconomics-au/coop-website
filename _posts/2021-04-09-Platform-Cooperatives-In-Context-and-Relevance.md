@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Platform Co-operatives In Context and Relevance"
+author: Hamideh Iraj
+---
+
 In July 2020, Incubator COOP Australia interviewed Dr Jose Mari Luzarraga from Mondragon Team Academy. 
 The conversation was around platform cooperatives. 
 This article is a high-level summary of the interview. 
